@@ -72,7 +72,8 @@ export default function FormComponent() {
                     font-size: 16px;
                     color: black;
                     font-style: italic;
-                    margin-left:30px
+                    margin-left:30px:
+                    margin-top: 0px;
                 }
             `}</style>
         </div>
